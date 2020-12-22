@@ -1,0 +1,5 @@
+#! /usr/bin/env bash
+
+pacman -S eog evince file-roller gdm gedit gnome-calculator gnome-calendar gnome-characters gnome-clocks gnome-color-manager gnome-control-center gnome-disk-utility gnome-keyring gnome-logs gnome-menus gnome-screenshot gnome-session gnome-settings-daemon gnome-shell gnome-shell-extensions gnome-software gnome-system-monitor gnome-terminal gnome-weather grilo-plugins gvfs gvfs-afc gvfs-goa gvfs-google gvfs-gphoto2 gvfs-mtp gvfs-nfs gvfs-smb mutter nautilus networkmanager rygel sushi tracker tracker3 tracker3-miners tracker-miners xdg-user-dirs-gtk
+
+exit 0
